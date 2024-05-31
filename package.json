@@ -1,0 +1,13 @@
+{
+  "name": "@cyware/sdk-frontend",
+  "version": "0.37.0",
+  "description": "Typing for the Cyware Frontend SDK",
+  "author": "Cyware Labs. <security@khulnasoft.com>",
+  "license": "MIT",
+  "types": "./src/index.d.ts",
+  "main": "./src/index.js",
+  "module": "./src/index.js",
+  "files": [
+    "src/*"
+  ]
+}
